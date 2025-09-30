@@ -1,6 +1,6 @@
 # Ai Chatbot
 
-![screenshot to come](./images/preview-screenshot.jpg)
+![screenshot to come](screenshot.png)
 
 ## Content
 

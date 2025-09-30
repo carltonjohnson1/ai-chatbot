@@ -1,13 +1,9 @@
-# C & B Collabs
-
-### Desktop
+# Ai Chatbot
 
 ![screenshot to come](./images/preview-screenshot.jpg)
 
 ## Content
 
-This was completed as my final project in a 10 week course I completed on becoming a Front-end Developer. The course was run by [General Assembly](https://generalassemb.ly/students/courses/front-end-web-development-short-course/london).
+This is an AI chatbot. I created it by following an excellent tutorial on Youtube by [CodingNepal](https://youtu.be/B21G6tUI4L0?si=q87ypp5ix8aH8ofl). I followed the tutorial because I wanted to get practice linking to open ai type tools.
 
-This project was focused on working on showcasing all the skills I'd learned during the 10 week course, so HTML, CSS and Javascript, without using any frameworks just pure code.
-
-I focused this project on highlighting some of the projects we'd worked on during the 10 weeks as well as displaying some of the skills I'd picked up from other study during the 10 weeks.
+It's my intention to update it and improve it substantially myself in the future when I get a chance. It's great as it is but I want to put my own stamp on it using my own coding skills and knowledge rather than just following along with a video.
